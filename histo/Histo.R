@@ -1,6 +1,6 @@
 
 
-# library(shiny)
+library(shiny)
 
 # 1. UI - Defines the layout and appearance
 ui <- fluidPage(
